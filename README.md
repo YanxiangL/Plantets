@@ -1,2 +1,2 @@
-# Plantets
+# Planets
 New practice repository
